@@ -13,7 +13,7 @@ I enjoy learning about peer to peer opensource technologies, unix-like operating
 
 Slowly, learning to pick up the languages that runs the modern interwebs.
 
-Contact via [hi@euphengvue.com](mailto:hi@euphengvue.com)
+Contact via [hi@euphengvuedotcom](mailto:hi@euphengvue.com)
 
 [mastadon](https://fosstodon.org/@vue)
 
