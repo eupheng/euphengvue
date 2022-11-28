@@ -1,9 +1,3 @@
-# nonplain.js → 11ty → web
+# Eupheng Vue's website
 
-```shell
-$ cd site
-  npm i
-  npm run dev
-```
-
-To begin creating content, edit the `.md` files in the `/files` directory.
+built with [nonplain.js](https://github.com/nonplain/nonplain-11ty-starter#readme)
