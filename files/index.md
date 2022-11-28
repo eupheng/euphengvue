@@ -15,6 +15,8 @@ Slowly, learning to pick up the languages that runs the modern interwebs.
 
 Contact via [hi@euphengvue.com](mailto:hi@euphengvue.com)
 
+[mastadon](https://fosstodon.org/@vue)
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
