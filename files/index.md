@@ -1,16 +1,10 @@
 ---
-title: About this site
+title: Home
 permalink: /
 ---
 
-This site was built with [**nonplain.js**](https://github.com/nonplain/nonplain.js) and [**11ty**](https://www.11ty.dev/).
+# Hello
 
-Out of the box, this starter is:
+#### My name is Eupheng Vue.
 
-- Simple
-- Accessible
-- Performant
-- Responsive
-- Development-ready
-
-Start creating content right away. Just [fork this starter on GitHub](https://github.com/nonplain/nonplain-11ty-starter) and edit the `.md` files in the "files" directory.
+This is a place for me to gather information, ideas, thoughts, and resources on my interests in and out of the interwebs.
