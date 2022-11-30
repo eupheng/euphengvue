@@ -22,3 +22,5 @@ Contact via [hi@euphengvuedotcom](mailto:hi@euphengvue.com)
 ````
 
 Mastodon: [@vue@fosstodon.org](https://fosstodon.org/@vue)
+
+[CV Resume](https://rxresu.me/eeuv/eupheng-vue-public)
