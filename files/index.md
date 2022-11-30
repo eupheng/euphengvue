@@ -22,5 +22,3 @@ Contact via [hi@euphengvuedotcom](mailto:hi@euphengvue.com)
 ````
 
 Mastodon: [@vue@fosstodon.org](https://fosstodon.org/@vue)
-
-[Posts](/posts/index.md)
