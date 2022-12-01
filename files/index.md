@@ -21,4 +21,8 @@ Contact via [hi@euphengvuedotcom](mailto:hi@euphengvue.com)
 
 ````
 
-Mastodon: [@vue@fosstodon.org](https://fosstodon.org/@vue)
+- Mastodon: [@vue@fosstodon.org](https://fosstodon.org/@vue)
+
+- Github: [eupheng](https://github.com/eupheng)
+
+- Keybase: [keybase/eupheng](https://keybase.io/eupheng)
