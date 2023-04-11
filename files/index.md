@@ -9,11 +9,7 @@ permalink: /
 
 This is a place for me to gather information, ideas, thoughts, and resources on my interests in and out of the interwebs.
 
-I enjoy learning about peer to peer opensource technologies, unix-like operating systems such as [FreeBSD](https://freebsd.org), [Debian](https://debian.org), and [OpenBSD](https://openbsd.org).
-
-Slowly, learning to pick up the languages and operating systems that keeps the internet running.
-
-Contact via [hi@euphengvuedotcom](mailto:hi@euphengvue.com)
+Contact via hiateuphengvuedotcom
 
 ##### Fingerprint
 ````
